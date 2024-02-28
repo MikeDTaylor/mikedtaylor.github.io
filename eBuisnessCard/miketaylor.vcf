@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Taylor;Mike;;;
+FN:Mike Taylor
+ORG:Oceans Institute, The University of Western Australia
+ADR;TYPE=WORK:
+TITLE:
+TEL;TYPE=CELL:+61466241481
+TEL;TYPE=WORK:+61864888760
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:michael.taylor@research.uwa.edu.au
+URL;TYPE=Digital Business Card:
+URL:https://research-repository.uwa.edu.au/en/persons/michael-taylor
+URL;TYPE=WhatsApp:tps://wa.me/61466241481
+URL;TYPE=Website:https://research-repository.uwa.edu.au/en/persons/michael-taylor
+URL;TYPE=Location:https://maps.app.goo.gl/1wikdWFjyahAEuU58
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Research:•	Monitoring/tracking of marine megafauna•	Seascape ecology and fragmentation •	Fisheries ecology
+UID:EnBizCard-100049305
+END:VCARD
